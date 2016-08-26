@@ -7,8 +7,8 @@ Und zu guter letzt das Ausloggen vom Server.
 Um den geschriebenen Code ausfuehren zu koennen:
 Muessen folgende Pakte installiert werden:
 
-mysql-client-core-5.7
-libmysqlclient-dev
+* mysql-client-core-5.7
+* libmysqlclient-dev
 
 Falls man apt-get nutzt, kann man die darunterliegenden Zeilen einfach kopieren
 und in die Konsole einfügen.
