@@ -1,4 +1,4 @@
-Beschreibung des MySQL - Clients in C fuer Linux
+#Beschreibung des MySQL - Clients in C fuer Linux
 
 Der Client beinhaltet das Einloggen auf dem Mysql Server.
 Sowie das Daten schreiben und lesen.
