@@ -4,8 +4,7 @@ Der Client beinhaltet das Einloggen auf dem Mysql Server.
 Sowie das Daten schreiben und lesen.
 Und zu guter letzt das Ausloggen vom Server.
 
-Um den geschriebenen Code ausfuehren zu koennen:
-Muessen folgende Pakte installiert werden:
+Um den geschriebenen Code ausfuehren zu koennen, muessen folgende Pakte installiert werden:
 
 * mysql-client-core-5.7
 * libmysqlclient-dev
